@@ -1,0 +1,11 @@
+C:\Users\fnzrli109\Desktop\Project\c#\Project 1\weapon.Core\bin\Debug\net8.0\weapon.Core.deps.json
+C:\Users\fnzrli109\Desktop\Project\c#\Project 1\weapon.Core\bin\Debug\net8.0\weapon.Core.dll
+C:\Users\fnzrli109\Desktop\Project\c#\Project 1\weapon.Core\bin\Debug\net8.0\weapon.Core.pdb
+C:\Users\fnzrli109\Desktop\Project\c#\Project 1\weapon.Core\obj\Debug\net8.0\weapon.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fnzrli109\Desktop\Project\c#\Project 1\weapon.Core\obj\Debug\net8.0\weapon.Core.AssemblyInfoInputs.cache
+C:\Users\fnzrli109\Desktop\Project\c#\Project 1\weapon.Core\obj\Debug\net8.0\weapon.Core.AssemblyInfo.cs
+C:\Users\fnzrli109\Desktop\Project\c#\Project 1\weapon.Core\obj\Debug\net8.0\weapon.Core.csproj.CoreCompileInputs.cache
+C:\Users\fnzrli109\Desktop\Project\c#\Project 1\weapon.Core\obj\Debug\net8.0\weapon.Core.dll
+C:\Users\fnzrli109\Desktop\Project\c#\Project 1\weapon.Core\obj\Debug\net8.0\refint\weapon.Core.dll
+C:\Users\fnzrli109\Desktop\Project\c#\Project 1\weapon.Core\obj\Debug\net8.0\weapon.Core.pdb
+C:\Users\fnzrli109\Desktop\Project\c#\Project 1\weapon.Core\obj\Debug\net8.0\ref\weapon.Core.dll

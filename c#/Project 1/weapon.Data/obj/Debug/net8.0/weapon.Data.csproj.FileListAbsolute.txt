@@ -1,0 +1,15 @@
+C:\Users\fnzrli109\Desktop\Project\c#\Project 1\weapon.Data\bin\Debug\net8.0\weapon.Data.deps.json
+C:\Users\fnzrli109\Desktop\Project\c#\Project 1\weapon.Data\bin\Debug\net8.0\weapon.Data.dll
+C:\Users\fnzrli109\Desktop\Project\c#\Project 1\weapon.Data\bin\Debug\net8.0\weapon.Data.pdb
+C:\Users\fnzrli109\Desktop\Project\c#\Project 1\weapon.Data\bin\Debug\net8.0\weapon.Core.dll
+C:\Users\fnzrli109\Desktop\Project\c#\Project 1\weapon.Data\bin\Debug\net8.0\weapon.Core.pdb
+C:\Users\fnzrli109\Desktop\Project\c#\Project 1\weapon.Data\obj\Debug\net8.0\weapon.Data.csproj.AssemblyReference.cache
+C:\Users\fnzrli109\Desktop\Project\c#\Project 1\weapon.Data\obj\Debug\net8.0\weapon.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fnzrli109\Desktop\Project\c#\Project 1\weapon.Data\obj\Debug\net8.0\weapon.Data.AssemblyInfoInputs.cache
+C:\Users\fnzrli109\Desktop\Project\c#\Project 1\weapon.Data\obj\Debug\net8.0\weapon.Data.AssemblyInfo.cs
+C:\Users\fnzrli109\Desktop\Project\c#\Project 1\weapon.Data\obj\Debug\net8.0\weapon.Data.csproj.CoreCompileInputs.cache
+C:\Users\fnzrli109\Desktop\Project\c#\Project 1\weapon.Data\obj\Debug\net8.0\weapon.D.A02EB67C.Up2Date
+C:\Users\fnzrli109\Desktop\Project\c#\Project 1\weapon.Data\obj\Debug\net8.0\weapon.Data.dll
+C:\Users\fnzrli109\Desktop\Project\c#\Project 1\weapon.Data\obj\Debug\net8.0\refint\weapon.Data.dll
+C:\Users\fnzrli109\Desktop\Project\c#\Project 1\weapon.Data\obj\Debug\net8.0\weapon.Data.pdb
+C:\Users\fnzrli109\Desktop\Project\c#\Project 1\weapon.Data\obj\Debug\net8.0\ref\weapon.Data.dll
