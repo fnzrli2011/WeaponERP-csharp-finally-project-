@@ -60,13 +60,21 @@ namespace weapon.Buisness.Implementions
         {
             if(weapon != null)
             {
-                weapon.BulletNumber = 0;
-                WindowsMediaPlayer player = new WindowsMediaPlayer();
-                player.URL = @"C:\Users\fnzrli109\Desktop\Project\c#\Sounds\Fire.mp3";
-                player.controls.play();
-                Console.WriteLine("Press any key to end the fire ...");
-                Console.ReadKey();
-                Console.WriteLine("Fire stopped.");
+                if (weapon.BulletNumber > 0)
+                {
+                    weapon.BulletNumber = 0;
+                    WindowsMediaPlayer player = new WindowsMediaPlayer();
+                    player.URL = @"C:\Users\fnzrli109\Desktop\Project\c#\Sounds\Fire.mp3";
+                    player.controls.play();
+                    Console.WriteLine("Press any key to end the fire ...");
+                    Console.ReadKey();
+                    Console.WriteLine("Fire stopped.");
+                }
+                else
+                {
+                    Console.WriteLine("Please rebuild weapon.");
+                }
+
             }
             else
             {
@@ -115,12 +123,19 @@ namespace weapon.Buisness.Implementions
         {
            if(weapon != null)
             {
-                weapon.BulletNumber -= 1;
-                WindowsMediaPlayer player = new WindowsMediaPlayer();
-                player.URL = @"C:\Users\fnzrli109\Desktop\Project\c#\Sounds\shoot.mp3";
-                player.controls.play();
-                Console.WriteLine("Press any key for continue ...");
-                Console.ReadKey();
+                if (weapon.BulletNumber > 0)
+                {
+                    weapon.BulletNumber -= 1;
+                    WindowsMediaPlayer player = new WindowsMediaPlayer();
+                    player.URL = @"C:\Users\fnzrli109\Desktop\Project\c#\Sounds\shoot.mp3";
+                    player.controls.play();
+                    Console.WriteLine("Press any key for continue ...");
+                    Console.ReadKey();
+                }
+                else
+                {
+                    Console.WriteLine("Please rebuild weapon.");
+                }
             }
            else
             {

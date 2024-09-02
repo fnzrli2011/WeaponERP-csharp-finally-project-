@@ -18,3 +18,4 @@ C:\Users\fnzrli109\Desktop\Project\c#\Project 1\weapon.Buisness\obj\Debug\net8.0
 C:\Users\fnzrli109\Desktop\Project\c#\Project 1\weapon.Buisness\obj\Debug\net8.0\refint\weapon.Buisness.dll
 C:\Users\fnzrli109\Desktop\Project\c#\Project 1\weapon.Buisness\obj\Debug\net8.0\weapon.Buisness.pdb
 C:\Users\fnzrli109\Desktop\Project\c#\Project 1\weapon.Buisness\obj\Debug\net8.0\ref\weapon.Buisness.dll
+C:\Users\fnzrli109\Desktop\Project\c#\Project 1\weapon.Buisness\obj\Debug\net8.0\weapon.Buisness.sourcelink.json

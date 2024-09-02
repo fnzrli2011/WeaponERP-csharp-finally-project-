@@ -23,3 +23,4 @@ C:\Users\fnzrli109\Desktop\Project\c#\Project 1\weapon.CA\obj\Debug\net8.0\ref\w
 C:\Users\fnzrli109\Desktop\Project\c#\Project 1\weapon.CA\obj\Debug\net8.0\Interop.WMPLib.dll
 C:\Users\fnzrli109\Desktop\Project\c#\Project 1\weapon.CA\obj\Debug\net8.0\Interop.MediaPlayer.dll
 C:\Users\fnzrli109\Desktop\Project\c#\Project 1\weapon.CA\obj\Debug\net8.0\weapon.CA.csproj.ResolveComReference.cache
+C:\Users\fnzrli109\Desktop\Project\c#\Project 1\weapon.CA\obj\Debug\net8.0\weapon.CA.sourcelink.json
